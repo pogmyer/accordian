@@ -1,0 +1,24 @@
+<html>
+<body>
+  <main class="main">
+      <div class="accordian">
+        <nav class="accordian__tabs">
+          <ul class="tabs">
+            <li class="tabs__tab" id="tabs--active" value="0">Tab 1</li>
+            <li class="tabs__tab" value="1">Tab 2</li>
+            <li class="tabs__tab" value="2">Tab 3</li>
+            <li class="tabs__tab" value="3">Tab 4</li>
+          </ul>
+        </nav>
+        <div class="accordian__container">
+          <img src="https://media-members.nationalgeographic.com/static-media/images/css_images/nationalGeographic_default_avatar.jpg" alt="" class="accordian__image">
+          <div class="accordian__content-box">
+          </div>
+        </div>
+      </div>
+  </main>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="./main.js" charset="utf-8"></script>
+
+</html>
